@@ -1,21 +1,9 @@
-MIT License
+สัญญาอนุญาตเอ็มไอที (MIT License)
 
-Copyright (c) 2024 RoxyX
+ลิขสิทธิ์ (c) 2024 RoxyX
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+ได้รับอนุญาตให้ใช้งาน โดยไม่เสียค่าใช้จ่าย แก่บุคคลใดก็ตามที่ได้รับสำเนาของซอฟต์แวร์นี้และไฟล์เอกสารประกอบ (เรียกว่า "ซอฟต์แวร์") ให้จัดการในซอฟต์แวร์โดยไม่มีข้อจำกัด รวมถึงแต่ไม่จำกัดเพียงสิทธิในการใช้ คัดลอก แก้ไข รวม เผยแพร่ แจกจ่าย อนุญาตให้ใช้สิทธิต่อ และ/หรือขายสำเนาของซอฟต์แวร์ และอนุญาตให้บุคคลที่ได้รับซอฟต์แวร์ดำเนินการดังกล่าวได้ ภายใต้เงื่อนไขต่อไปนี้:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+ประกาศลิขสิทธิ์ข้างต้นและประกาศการอนุญาตนี้จะต้องรวมอยู่ในทั้งหมดสำเนาหรือส่วนสำคัญของซอฟต์แวร์
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+ซอฟต์แวร์จัดให้ "ตามที่เป็น" โดยไม่มีการรับประกันใด ๆ ทั้งโดยชัดแจ้งหรือโดยนัย รวมถึงแต่ไม่จำกัดเพียงการรับประกันความสามารถในการขายได้ ความเหมาะสมสำหรับวัตถุประสงค์เฉพาะ และการไม่ละเมิดลิขสิทธิ์ ไม่ว่าในกรณีใด ๆ ผู้เขียนหรือเจ้าของลิขสิทธิ์จะไม่รับผิดชอบต่อการเรียกร้อง ความเสียหาย หรืออื่น ๆ ความรับผิด ไม่ว่าจะในการดำเนินการตามสัญญา การละเมิด หรืออื่น ๆ ที่เกิดขึ้นจาก นอกเหนือจาก หรือเกี่ยวข้องกับซอฟต์แวร์ การใช้งาน หรือการดำเนินการอื่น ๆ ในซอฟต์แวร์
