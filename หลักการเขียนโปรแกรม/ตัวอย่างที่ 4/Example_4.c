@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main() {
     int salary, hour, totalot, totalsalary;
     
